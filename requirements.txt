@@ -1,0 +1,9 @@
+tensorflow-macos==2.11
+tensorflow-metal==0.7.0
+pillow
+pygame
+pyscreenshot
+numpy==1.26.4
+
+# brew install python-tk@3.10
+# different python version may cause conflict
