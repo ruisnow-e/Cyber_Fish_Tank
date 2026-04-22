@@ -2,8 +2,8 @@
 
 An interactive AI-powered virtual fish tank — draw your own fish, let a machine learning model judge how fish-like it looks, then watch it swim, chase food, and blow bubbles in a Pygame aquarium.
 
-> Final Project for **CS5001** · Northeastern University MSCS-Align · Fall 2025
-> Built by **Rui Song**, **Zhuoying Xue**, and **Lai Jiang** · Northeastern University MSCS · Fall 2025
+> Final Project for **CS5001** · Northeastern University MSCS · Fall 2025
+> Built by **Rui Song**, **Zhuoying Xue**, and **Lai Jiang**
 
 ---
 
